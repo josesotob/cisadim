@@ -12,7 +12,7 @@ app = Flask(__name__)
 CORS(app)
 
 # ── GOOGLE SHEETS SETUP ─────────────────────────────────────
-SHEET_ID = "1E6Yqudw0c2MKjUsi9wkFxNQsFQLfTYhi0T_NK2FXzCE"
+SHEET_ID = os.environ.get("SHEET_ID")
 
 def get_sheet():
     creds_json = os.environ.get("GOOGLE_CREDENTIALS")
