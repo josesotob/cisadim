@@ -89,4 +89,4 @@ Admin panel at `http://localhost:5000/admin`.
 ## Author
 
 **José Ignacio Soto Bastías** — Mining Engineer · Data Scientist  
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](www.linkedin.com/in/jose-soto-bastias) · [GitHub](https://github.com/YOUR_USERNAME)
